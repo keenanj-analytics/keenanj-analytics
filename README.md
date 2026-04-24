@@ -4,22 +4,24 @@ I'm Keenan. Data Analyst with 7+ years of experience building data infrastructe,
 
 I spent the first 3 years of my career as a management consultant at PwC across forensics and people anlaytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up.
 
-My deep expertise is in workforce analytics, but the skills I have built (data modeling, pipeline design, dashboards, AI Autoamtion) apply across any domain.
+My deep expertise is in workforce analytics, but the skills I have built (data modeling, pipeline design, dashboards, AI Autoamtion) apply across any domain. 
+
+**I'm currently open to full-time and contract opportunities in data analytics, data science, and AI-powered tooling. Remote or hybrid in Los Angeles.**
 
 ## What am I currently working on
-→ **Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows. More details coming soon.
-→ **People Analytics playbook** - A practitioner-authored guide on all things people analytics
+→ **Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows.  
+More details coming soon! :)      
 
 ## What tools do I use
-→ BigQuery / SQL
-→ Tableau
-→ Python
-→ Apps Script
-→ Claude Code
+→ BigQuery / SQL  
+→ Tableau  
+→ Python  
+→ Apps Script  
+→ Claude Code  
 
 
 ## How to reach me?
-Best way to reach me is through linkedin -> [Keenan Artis]([url](https://www.linkedin.com/in/keenanjeffreyartis/))
+Best way to reach me is through linkedin -> Click [Here]([url](https://www.linkedin.com/in/keenanjeffreyartis/)) to Connect!
 
 
 

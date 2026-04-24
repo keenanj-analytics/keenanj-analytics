@@ -9,7 +9,7 @@ My deep expertise is in workforce analytics, but the skills I have built (data m
 **I'm currently open to remote full-time and contract opportunities in data analytics, data science, and AI-powered tooling.**
 
 ## What I'm currently working on 🧱
-**Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows.  
+**Just Kaizen AI** - A portfolio demonstrating end-to-end data infrastructure, AI-powered reporting, and analytical workflows.  
 More details coming soon! :)      
 
 ## What tools do I use 🛠️

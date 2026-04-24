@@ -6,7 +6,7 @@ I spent the first 3 years of my career as a management consultant at PwC across 
 
 My deep expertise is in workforce analytics, but the skills I have built (data modeling, pipeline design, dashboards, AI Autoamtion) apply across any domain. 
 
-**I'm currently open to full-time and contract opportunities in data analytics, data science, and AI-powered tooling. Remote or hybrid in Los Angeles.**
+**I'm currently open to remote full-time and contract opportunities in data analytics, data science, and AI-powered tooling.**
 
 ## What I'm currently working on 🧱
 → **Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows.  

@@ -8,11 +8,11 @@ My deep expertise is in workforce analytics, but the skills I have built (data m
 
 **I'm currently open to full-time and contract opportunities in data analytics, data science, and AI-powered tooling. Remote or hybrid in Los Angeles.**
 
-## What am I currently working on
+## What I'm currently working on🧱
 → **Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows.  
 More details coming soon! :)      
 
-## What tools do I use
+## What tools do I use 🛠️
 → BigQuery / SQL  
 → Tableau  
 → Python  
@@ -20,7 +20,7 @@ More details coming soon! :)
 → Claude Code  
 
 
-## How to reach me?
+## How to reach me? 📩
 Best way to reach me is through linkedin -> Click [Here](https://www.linkedin.com/in/keenanjeffreyartis/) to Connect!
 
 

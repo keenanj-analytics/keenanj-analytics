@@ -21,7 +21,7 @@ More details coming soon! :)
 
 
 ## How to reach me?
-Best way to reach me is through linkedin -> Click [Here]([url](https://www.linkedin.com/in/keenanjeffreyartis/)) to Connect!
+Best way to reach me is through linkedin -> Click [Here](https://www.linkedin.com/in/keenanjeffreyartis/) to Connect!
 
 
 

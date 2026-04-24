@@ -8,7 +8,7 @@ My deep expertise is in workforce analytics, but the skills I have built (data m
 
 **I'm currently open to full-time and contract opportunities in data analytics, data science, and AI-powered tooling. Remote or hybrid in Los Angeles.**
 
-## What I'm currently working on🧱
+## What I'm currently working on 🧱
 → **Just Kaizen AI** - A portfolio demonstrating end-toe-end data infrastructure, AI-powered reporting, and analytical workflows.  
 More details coming soon! :)      
 

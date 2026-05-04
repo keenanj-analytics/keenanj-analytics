@@ -1,26 +1,31 @@
 ## Hey there and Welcome! 👋
 
-I'm Keenan. Data Analyst with 7+ years of experience building data infrastructe, AI-powered tooling, and delivering insights that drive decisions. My philosphy around my work centers on Kaizen: continuous improvement, every day.
+I'm Keenan. Data Analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and delivering insights that drive decisions. My philosophy around my work centers on Kaizen: continuous improvement, every day.
 
-I spent the first 3 years of my career as a management consultant at PwC across forensics and people anlaytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up.
+I spent the first 3 years of my career as a management consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up.
 
-My deep expertise is in workforce analytics, but the skills I have built (data modeling, pipeline design, dashboards, AI Autoamtion) apply across any domain. 
+My deep expertise is in workforce analytics, and I'm looking for opportunities to apply what I've built in broader business domains.
 
-**I'm currently open to remote full-time and contract opportunities in data analytics, data science, and AI-powered tooling.**
+**I'm currently open to remote full-time and contract opportunities**
 
-## What I'm currently working on 🧱
-**Just Kaizen AI** - A portfolio demonstrating end-to-end data infrastructure, AI-powered reporting, and analytical workflows.     
+## What I'm Currently Building 🧱
 
-## What tools do I use 🛠️
-→ BigQuery / SQL  
-→ Tableau  
-→ Python  
-→ Apps Script  
-→ Claude Code  
+**JustKaizen AI** — End-to-end People Analytics for a 1,200-person pre-IPO company.
 
+→ [Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure) — dbt + BigQuery warehouse, 29 models, automated reporting marts
 
-## How to reach me? 📩
-Best way to reach me is through linkedin -> Click [Here](https://www.linkedin.com/in/keenanjeffreyartis/) to Connect!
+## Tools 🛠️
+
+→ SQL / BigQuery
+→ dbt
+→ Tableau
+→ Python
+→ Apps Script
+→ Claude Code
+
+## How to Reach Me 📩
+
+Best way to reach me is through LinkedIn → [Connect Here](https://www.linkedin.com/in/keenanjeffreyartis/)
 
 
 

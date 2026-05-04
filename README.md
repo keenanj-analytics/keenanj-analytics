@@ -1,14 +1,10 @@
 ## Hey there and Welcome! 👋
 
-I'm Keenan. Data Analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and delivering insights that drive decisions. My philosophy around my work centers on Kaizen: continuous improvement, every day.
-
-I spent the first 3 years of my career as a management consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up.
-
-My deep expertise is in workforce analytics, and I'm looking for opportunities to apply what I've built in broader business domains.
+I'm Keenan. Data Analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and delivering insights that drive decisions. My philosophy around my work centers on Kaizen: continuous improvement, every day. I spent the first 3 years of my career as a management consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up. My deep expertise is in workforce analytics, and I'm looking for opportunities to apply what I've built in broader business domains.
 
 **I'm currently open to remote full-time and contract opportunities**
 
-## What I'm Currently Building 🧱
+## My Builds 🧱
 
 **JustKaizen AI** — End-to-end People Analytics for a 1,200-person pre-IPO company.
 

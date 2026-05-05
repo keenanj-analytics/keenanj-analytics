@@ -2,7 +2,7 @@
 
 I'm Keenan - analytics engineer and data analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and insights that drive decisions. My philosophy centers on Kaizen: continuous improvement ever day.
 
-I spent 3 years as an analytics consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on Attentive's HR team, where I built the data warehouse, reporting layer, and an AI-powered platform from the ground up.
+I spent 3 years as an analytics consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on Attentive's HR team, where I built the data warehouse, delivered insights to stakeholders, and developed an AI-powered platform from the ground up.
 
 **Currently open to remote full-time and contract opportunities**
 

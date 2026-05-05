@@ -1,23 +1,17 @@
 ## Hey there and Welcome! 👋
 
-I'm Keenan. Data Analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and delivering insights that drive decisions. My philosophy around my work centers on Kaizen: continuous improvement, every day. I spent the first 3 years of my career as a management consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on a mid-sized tech company's HR team, where I built a data warehouse, the reporting layer, and an AI-powered platform from the ground up. My deep expertise is in workforce analytics, and I'm looking for opportunities to apply what I've built in broader business domains.
+I'm Keenan - analytics engineer and data analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and insights that drive decisions. My philosophy centers on Kaizen: continuous improvement ever day.
 
-**I'm currently open to remote full-time and contract opportunities**
+I spent 3 years as an analytics consultant at PwC across forensics and people analytics. The last 4 years I was the first and only technical hire on Attentive's HR team, where I built the data warehouse, reporting layer, and an AI-powered platform from the ground up.
 
-## My Builds 🧱
+**Currently open to remote full-time and contract opportunities**
 
-**JustKaizen AI** — End-to-end People Analytics for a 1,200-person pre-IPO company.
+## Projects ⭐️
+My projects follow **JustKaizen AI** - a fictional 1,200 person pre-IPO tech company with synthetic employee data modeled after real-world HR systems. The scenario: a fast-scaling company with data scattered across disconnected HRIS, compensation, performance, and recruiting systems. No single source of truth. Leadership needs answers on overall workforce health (yesterday).
 
-→ [Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure) — dbt + BigQuery warehouse, 29 models, automated reporting marts
+1. [People Analytics Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure) - The foundation. The end result is a production-grade dbt + BigQuery data warehouse that consolidates raw HR data into 25 tested, documented models across staging, intermediate, and mart layers.
 
-## Tools 🛠️
-
-→ SQL / BigQuery
-→ dbt
-→ Tableau
-→ Python
-→ Apps Script
-→ Claude Code
+2. Workforce Analytics Dashbaord Suite (Coming Soon via Tableau Public) - The reporting layer. Tableau dashboards built on top of the warehouse that brings the data to life. Dashboards aims to answer key workforce questions and drill downs for exploratory analytics.
 
 ## How to Reach Me 📩
 

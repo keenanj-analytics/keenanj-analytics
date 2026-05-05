@@ -7,7 +7,7 @@ I spent 3 years as an analytics consultant at PwC across forensics and people an
 **Currently open to remote full-time and contract opportunities**
 
 ## Projects ⭐️
-My projects follow **JustKaizen AI** - a fictional 1,200 person pre-IPO tech company with synthetic employee data modeled after real-world HR systems. The scenario: a fast-scaling company with data scattered across disconnected HRIS, compensation, performance, and recruiting systems. No single source of truth. Leadership needs answers on overall workforce health (yesterday).
+My projects follow **[JustKaizen AI](https://github.com/keenanj-analytics/people-analytics-data-infrastructure/blob/main/docs/assets/JustKaizen_Company_Profile_Definitive.md)** - a fictional 1,200 person pre-IPO tech company with synthetic employee data modeled after real-world HR systems. The scenario: a fast-scaling company with data scattered across disconnected HRIS, compensation, performance, and recruiting systems. No single source of truth. Leadership needs answers on overall workforce health (yesterday).
 
 1. [People Analytics Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure) - The foundation. The end result is a production-grade dbt + BigQuery data warehouse that consolidates raw HR data into 25 tested, documented models across staging, intermediate, and mart layers.
 

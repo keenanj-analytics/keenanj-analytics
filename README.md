@@ -1,4 +1,4 @@
-## Hey there and Welcome! 👋
+## Hey there and Welcome!
 
 I'm Keenan - analytics engineer and data analyst with 7+ years of experience building data infrastructure, AI-powered tooling, and insights that drive decisions. My philosophy centers on Kaizen: continuous improvement ever day.
 
@@ -13,7 +13,7 @@ My projects follow **[JustKaizen AI](https://github.com/keenanj-analytics/people
 
 2. **Workforce Analytics Dashbaord Suite** (Coming Soon via Tableau Public) - The reporting layer. Tableau dashboards built on top of the warehouse that brings the data to life. Dashboards aims to answer key workforce questions and drill downs for exploratory analytics.
 
-## How to Reach Me 📩
+## How to Reach Me
 
 Best way to reach me is through LinkedIn → [Connect Here](https://www.linkedin.com/in/keenanjeffreyartis/)
 

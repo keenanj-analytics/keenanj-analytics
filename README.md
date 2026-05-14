@@ -11,7 +11,7 @@ My projects follow **[JustKaizen AI](https://github.com/keenanj-analytics/people
 
 1. **[People Analytics Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure)** - The foundation. A production-grade dbt + BigQuery data warehouse that consolidates raw HR data into 25 tested, documented models across staging, intermediate, and mart layers.
 
-2. **[People Analytics Insights](https://github.com/keenanj-analytics/people-analytics-insights)** - The analysis. Executive-facing workforce review covering headcount, attrition, hiring, compensation, engagement, and performance — modeled after reports delivered to CHROs and People Leadership Teams.
+2. **[People Analytics Insights](https://github.com/keenanj-analytics/people-analytics-insights)** - The analysis. Executive-facing workforce review covering headcount, attrition, hiring, compensation, engagement, and performance - modeled after reports delivered to CHROs and People Leadership Teams.
 
 ## How to Reach Me
 

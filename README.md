@@ -9,9 +9,11 @@ I spent 3 years as an analytics consultant at PwC across forensics and people an
 ## Projects ⭐️
 My projects follow **[JustKaizen AI](https://github.com/keenanj-analytics/people-analytics-data-infrastructure/blob/main/docs/JustKaizen_Company_Profile.md)** - a fictional 1,200 person pre-IPO tech company with synthetic employee data modeled after real-world HR systems. The scenario: a fast-scaling company with data scattered across disconnected HRIS, compensation, performance, and recruiting systems. No single source of truth. Leadership needs answers on overall workforce health (yesterday).
 
-1. **[People Analytics Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure)** - The foundation. The end result is a production-grade dbt + BigQuery data warehouse that consolidates raw HR data into 25 tested, documented models across staging, intermediate, and mart layers.
+1. **[People Analytics Data Infrastructure](https://github.com/keenanj-analytics/people-analytics-data-infrastructure)** - The foundation. A production-grade dbt + BigQuery data warehouse that consolidates raw HR data into 25 tested, documented models across staging, intermediate, and mart layers.
 
-2. **Workforce Analytics Dashbaord Suite** (Coming Soon via Tableau Public) - The reporting layer. Tableau dashboards built on top of the warehouse that brings the data to life. Dashboards aims to answer key workforce questions and drill downs for exploratory analytics.
+2. **[People Analytics Insights](https://github.com/keenanj-analytics/people-analytics-insights)** - The analysis. Executive-facing workforce review covering headcount, attrition, hiring, compensation, engagement, and performance — modeled after reports delivered to CHROs and People Leadership Teams.
+
+3. **Workforce Analytics Dashboard Suite** (Coming Soon via Tableau Public) - The reporting layer. Tableau dashboards built on top of the warehouse that bring the data to life with key workforce questions and drill-down exploratory analytics.
 
 ## How to Reach Me
 

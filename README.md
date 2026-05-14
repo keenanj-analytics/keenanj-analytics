@@ -13,8 +13,6 @@ My projects follow **[JustKaizen AI](https://github.com/keenanj-analytics/people
 
 2. **[People Analytics Insights](https://github.com/keenanj-analytics/people-analytics-insights)** - The analysis. Executive-facing workforce review covering headcount, attrition, hiring, compensation, engagement, and performance — modeled after reports delivered to CHROs and People Leadership Teams.
 
-3. **Workforce Analytics Dashboard Suite** (Coming Soon via Tableau Public) - The reporting layer. Tableau dashboards built on top of the warehouse that bring the data to life with key workforce questions and drill-down exploratory analytics.
-
 ## How to Reach Me
 
 Best way to reach me is through LinkedIn → [Connect Here](https://www.linkedin.com/in/keenanjeffreyartis/)
